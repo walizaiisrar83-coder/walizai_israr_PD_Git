@@ -1,0 +1,1 @@
+Izveidoju programmu, kas saskaita visus pāra skaitļus 
